@@ -1,0 +1,10 @@
+D:\Demo\QtControlCS\MiddleCOM\bin\Debug\MiddleCOM.dll
+D:\Demo\QtControlCS\MiddleCOM\bin\Debug\MiddleCOM.pdb
+D:\Demo\QtControlCS\MiddleCOM\bin\Debug\FrameWork.dll
+D:\Demo\QtControlCS\MiddleCOM\bin\Debug\FrameWork.pdb
+D:\Demo\QtControlCS\MiddleCOM\obj\Debug\MiddleCOM.csproj.AssemblyReference.cache
+D:\Demo\QtControlCS\MiddleCOM\obj\Debug\MiddleCOM.csproj.CoreCompileInputs.cache
+D:\Demo\QtControlCS\MiddleCOM\obj\Debug\MiddleCOM.csproj.CopyComplete
+D:\Demo\QtControlCS\MiddleCOM\obj\Debug\MiddleCOM.dll
+D:\Demo\QtControlCS\MiddleCOM\obj\Debug\MiddleCOM.pdb
+D:\Demo\QtControlCS\MiddleCOM\bin\Debug\MiddleCOM.tlb

@@ -1,0 +1,7 @@
+D:\Demo\QtControlCS\FrameWork\bin\Debug\FrameWork.dll
+D:\Demo\QtControlCS\FrameWork\bin\Debug\FrameWork.pdb
+D:\Demo\QtControlCS\FrameWork\obj\Debug\FrameWork.Form1.resources
+D:\Demo\QtControlCS\FrameWork\obj\Debug\FrameWork.csproj.GenerateResource.cache
+D:\Demo\QtControlCS\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+D:\Demo\QtControlCS\FrameWork\obj\Debug\FrameWork.dll
+D:\Demo\QtControlCS\FrameWork\obj\Debug\FrameWork.pdb

@@ -1,0 +1,15 @@
+﻿  uic QtController.ui
+  rcc QtController.qrc
+  moc QtController.h
+   RCC: Warning: No resources in 'D:\Demo\QtControlCS\QtController\QtController.qrc'.
+  QtController.cpp
+  main.cpp
+  qrc_QtController.cpp
+  moc_QtController.cpp
+Qt5AxContainerd.lib(qaxbase.obj) : warning LNK4099: 未找到 PDB“”(使用“Qt5AxContainerd.lib(qaxbase.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxdump.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxdump.obj)”或在“D:\Demo\QtControlCS\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxobject.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxobject.obj)”或在“D:\Demo\QtControlCS\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxtypes.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxtypes.obj)”或在“D:\Demo\QtControlCS\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxutils.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxutils.obj)”或在“D:\Demo\QtControlCS\Debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(qaxtypefunctions.obj) : warning LNK4099: 未找到 PDB“Qt5AxBased.pdb”(使用“Qt5AxBased.lib(qaxtypefunctions.obj)”或在“D:\Demo\QtControlCS\Debug\Qt5AxBased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  QtController.vcxproj -> D:\Demo\QtControlCS\Debug\QtController.exe
